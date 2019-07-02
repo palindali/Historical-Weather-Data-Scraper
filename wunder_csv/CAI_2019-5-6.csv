@@ -1,0 +1,49 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Precip Accum,Condition
+0,12:00 AM,79 F,52 F,39 %,ENE,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair
+1,12:30 AM,79 F,50 F,36 %,E,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair
+2,1:00 AM,79 F,50 F,36 %,CALM,0 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair
+3,1:30 AM,77 F,52 F,41 %,ENE,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair
+4,2:00 AM,77 F,50 F,39 %,E,3 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair
+5,2:30 AM,77 F,48 F,36 %,ENE,2 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair
+6,3:00 AM,81 F,45 F,28 %,S,2 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair
+7,4:00 AM,77 F,48 F,36 %,N,2 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair
+8,4:30 AM,75 F,45 F,34 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair
+9,5:00 AM,77 F,45 F,32 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair
+10,5:30 AM,75 F,41 F,29 %,CALM,0 mph,0 mph,29.3 in,0.0 in,0.0 in,Fair
+11,6:00 AM,77 F,45 F,32 %,NW,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair
+12,6:30 AM,77 F,45 F,32 %,WNW,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Fair
+13,6:45 AM,79 F,45 F,30 %,W,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+14,7:00 AM,79 F,45 F,30 %,WSW,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+15,7:30 AM,82 F,41 F,23 %,SW,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+16,8:00 AM,84 F,48 F,28 %,W,5 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+17,8:30 AM,86 F,48 F,27 %,W,8 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+18,9:00 AM,88 F,43 F,21 %,NNW,7 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+19,9:30 AM,90 F,46 F,22 %,WNW,10 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+20,10:00 AM,88 F,43 F,21 %,WNW,6 mph,0 mph,29.4 in,0.0 in,0.0 in,Haze
+21,10:30 AM,86 F,39 F,19 %,W,16 mph,0 mph,29.4 in,0.0 in,0.0 in,Sand
+22,11:00 AM,90 F,43 F,20 %,NW,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Sand
+23,11:30 AM,84 F,59 F,42 %,WNW,17 mph,0 mph,29.5 in,0.0 in,0.0 in,Sand
+24,12:00 PM,84 F,59 F,42 %,NW,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Sand
+25,12:30 PM,86 F,57 F,37 %,WNW,12 mph,0 mph,29.4 in,0.0 in,0.0 in,Sand
+26,1:00 PM,88 F,55 F,33 %,NW,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Widespread Dust
+27,1:30 PM,88 F,52 F,29 %,WNW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Widespread Dust
+28,2:00 PM,86 F,54 F,33 %,WNW,10 mph,0 mph,29.5 in,0.0 in,0.0 in,Widespread Dust
+29,2:30 PM,86 F,55 F,35 %,W,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Widespread Dust
+30,3:00 PM,86 F,54 F,33 %,WNW,8 mph,0 mph,29.5 in,0.0 in,0.0 in,Widespread Dust
+31,3:30 PM,86 F,52 F,31 %,WNW,9 mph,0 mph,29.4 in,0.0 in,0.0 in,Widespread Dust
+32,4:00 PM,84 F,54 F,35 %,WNW,16 mph,0 mph,29.5 in,0.0 in,0.0 in,Sand
+33,4:30 PM,82 F,52 F,35 %,WNW,14 mph,0 mph,29.5 in,0.0 in,0.0 in,Sand
+34,5:00 PM,81 F,52 F,37 %,WNW,16 mph,0 mph,29.5 in,0.0 in,0.0 in,Sand
+35,5:30 PM,79 F,52 F,39 %,NW,13 mph,0 mph,29.5 in,0.0 in,0.0 in,Sand
+36,6:00 PM,79 F,54 F,42 %,WNW,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair
+37,6:30 PM,77 F,54 F,44 %,WNW,12 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair
+38,7:00 PM,77 F,54 F,44 %,NW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair
+39,7:30 PM,77 F,54 F,44 %,NW,6 mph,0 mph,29.5 in,0.0 in,0.0 in,Fair
+40,8:00 PM,77 F,55 F,47 %,NW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
+41,8:30 PM,73 F,55 F,53 %,NW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
+42,9:00 PM,73 F,55 F,53 %,NNW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
+43,9:30 PM,72 F,57 F,60 %,NW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
+44,10:00 PM,72 F,55 F,57 %,NW,12 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
+45,10:30 PM,70 F,57 F,64 %,NNW,8 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
+46,11:00 PM,70 F,57 F,64 %,NW,10 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
+47,11:30 PM,68 F,57 F,68 %,NNW,9 mph,0 mph,29.6 in,0.0 in,0.0 in,Fair
