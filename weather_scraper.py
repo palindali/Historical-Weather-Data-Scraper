@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 ## --------------- SETTINGS ---------------
 
 AIRPORT_CODE = "CAI"
-START_DATE = datetime(2019, 5, 11)
+START_DATE = datetime(2019, 5, 1)
 END_DATE = datetime(2019, 5, 11) + timedelta(days=1)
 
 ## ----------------------------------------
